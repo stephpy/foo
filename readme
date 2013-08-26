@@ -1,0 +1,2 @@
+1) launch test `bin/atoum -f tests/units/Fail/Deal.php`
+2) Autoloaded class is `Deal` and `$tail` in `Consistency::autoloadFromClass` is equals to `eal`.

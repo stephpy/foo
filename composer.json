@@ -1,0 +1,14 @@
+{
+    "name": "fail",
+    "require": {
+        "atoum/atoum": "dev-master",
+        "hoa/core": "dev-master"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "dev",
+    "autoload":     {
+        "psr-0": { "Fail": "" }
+    }
+}
